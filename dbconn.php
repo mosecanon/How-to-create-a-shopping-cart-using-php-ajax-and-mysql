@@ -1,4 +1,4 @@
 <?php
 session_start();
 
-$connection = new mysqli('localhost', 'root', '', 'juviano');
+$connection = new mysqli('localhost', 'root', '', 'your database name');
